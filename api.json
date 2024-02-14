@@ -1,10 +1,13 @@
 {
 	"threads": 4,
-	"coin": "ETC",
+	"coin": "MOAC",
 	"name": "main",
 	"pplns": 9000,
 	"network": "classic",
-	"coin-name": "ETC",
+ 
+  "network": "ethereum",
+ 
+	"coin-name": "MOAC",
 	"proxy": {
 		"enabled": true,
 		"listen": "0.0.0.0:8888",
