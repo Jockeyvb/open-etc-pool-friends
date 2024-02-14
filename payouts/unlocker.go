@@ -51,7 +51,7 @@ var HydroRewardPerHash = big.NewInt(500)
 const UniversalHardForkHeight = 0
 
 var UniversalBlockReward = math.MustParseBig256("1000000000000000000") // 1.00
-var UniversalUncleReward = math.MustParseBig256("875000000000000000") // 0.875
+var UniversalUncleReward = math.MustParseBig256("500000000000000000") // 0.500
 
 // params for etchash
 var homesteadReward = math.MustParseBig256("5000000000000000000")
