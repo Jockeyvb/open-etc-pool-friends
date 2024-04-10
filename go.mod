@@ -1,5 +1,4 @@
-module github.com/Jockeyvb/open-etc-pool-friends
-
+module github.com/yuriy0803/open-etc-pool-friends
 go 1.19
 
 require (
